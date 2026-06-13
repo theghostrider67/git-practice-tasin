@@ -1,3 +1,9 @@
 # Git & GitHub Practice Project
-**Name:** Tasin Hossain Orko
-**Description:** A basic Python project to practice local Git branching and remote synchronization.
+
+### Student Details
+- **Name:** Tasin Hossain Orko
+- **Course:** Module 8 Git Assignment
+
+### Features Implemented
+- Basic terminal output (Name & Current Date)
+- Math helper utilities (Addition & Subtraction modules)
