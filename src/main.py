@@ -10,3 +10,10 @@ print(f"Subtraction (10 - 4): {subtract(10, 4)}")
 
 from utils import add, subtract, multiply
 print(f"Multiplication (4 * 3): {multiply(4, 3)}")
+
+from utils import add, subtract, multiply, divide
+try:
+    print(f"Division (12 / 4): {divide(12, 4)}")
+    print(f"Division (12 / 0): {divide(12, 0)}")
+except ZeroDivisionError as e:
+    print(f"Error caught gracefully: {e}")
